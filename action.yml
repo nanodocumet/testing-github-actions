@@ -1,0 +1,9 @@
+name: 'Hugo'
+description: 'Testing'
+author: 'Nano Documet'
+branding:
+  icon: 'book'
+  color: 'purple'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
